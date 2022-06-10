@@ -1,0 +1,12 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\bin\Debug\net6.0\Nutrivitta.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\bin\Debug\net6.0\Nutrivitta.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\bin\Debug\net6.0\Nutrivitta.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\Nutrivitta.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\Nutrivitta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\Nutrivitta.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\Nutrivitta.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\Nutrivitta.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\Nutrivitta.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\refint\Nutrivitta.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\Nutrivitta.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\ATIVIDADES SENAI\Back-End\UC15 - Testes BackEnd\Nutrivitta\Nutrivitta\obj\Debug\net6.0\ref\Nutrivitta.dll
