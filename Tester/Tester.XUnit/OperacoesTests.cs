@@ -23,8 +23,10 @@ namespace Tester.XUnit
         [InlineData(2, 3, 5)]
         public void SomarDoisNumeros_RetornaResultado_ParaUmaListaDeValores(double primeiroNumero, double segundoNumero, double resultadoEsperado)
         {
-            var resultadoDaSoma = Operacoes.Somar(primeiroNumero,
-            segundoNumero);
+            // Act
+            var resultadoDaSoma = Operacoes.Somar(primeiroNumero, segundoNumero);
+
+            // Assert
             Assert.Equal(resultadoEsperado, resultadoDaSoma);
         }
     }
