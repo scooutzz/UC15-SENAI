@@ -5998,9 +5998,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\Nutrivitta\\TestXUnitIMC\\TestXUnitIMC.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\NutriVitta\\TestXUnitIMC\\TestXUnitIMC.csproj",
       "projectName": "TestXUnitIMC",
-      "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\Nutrivitta\\TestXUnitIMC\\TestXUnitIMC.csproj",
+      "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\NutriVitta\\TestXUnitIMC\\TestXUnitIMC.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\Nutrivitta\\TestXUnitIMC\\obj\\",
       "projectStyle": "PackageReference",
@@ -6019,8 +6019,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\Nutrivitta\\Nutrivitta\\Nutrivitta.csproj": {
-              "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\Nutrivitta\\Nutrivitta\\Nutrivitta.csproj"
+            "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\NutriVitta\\Nutrivitta\\Nutrivitta.csproj": {
+              "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\NutriVitta\\Nutrivitta\\Nutrivitta.csproj"
             }
           }
         }

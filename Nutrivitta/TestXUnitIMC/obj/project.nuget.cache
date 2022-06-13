@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SSTuGiB23wURtcndTbrqc0sASCiKMB+XxpjneJX8vM0oVyID/Y8P+SIBPmP6zx0AMDcsEPHfW3Sj3m4HdqvkhA==",
+  "dgSpecHash": "HHX+ybUrVyzJx72sjxr183j1BEoqHeXVzjPOpYidFDbLk/iIfuyQVXFsgqqnpzjEXozoHG3z1xWy4lCOIThlvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\Nutrivitta\\TestXUnitIMC\\TestXUnitIMC.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\ATIVIDADES SENAI\\Back-End\\UC15 - Testes BackEnd\\NutriVitta\\TestXUnitIMC\\TestXUnitIMC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

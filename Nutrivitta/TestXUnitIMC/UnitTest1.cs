@@ -22,7 +22,7 @@ namespace TestXUnitIMC
         }
 
         [Theory]
-        [InlineData(-5, -5, "Peso e/ou altura não podem ser negativos ou ter valores iguais a zero(0).")]
+        [InlineData(-3, 0, "Peso e/ou altura não podem ser negativos ou ter valores iguais a zero(0).")]
         [InlineData(70, 1.75, "IMC: 22,86 kgm²\nPeso normal")]
         [InlineData(63, 1.85, "IMC: 18,41 kgm²\nAbaixo do peso")]
         [InlineData(78, 1.65, "IMC: 28,65 kg/m²\nSobrepeso")]
